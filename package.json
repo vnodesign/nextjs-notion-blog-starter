@@ -16,7 +16,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@notionhq/client": "^0.4.4",
+    "@notionhq/client": "^2.0.0",
     "@tailwindcss/line-clamp": "^0.4.0",
     "canvas-confetti": "^1.5.1",
     "chrome-aws-lambda": "^10.1.0",
